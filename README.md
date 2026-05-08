@@ -14,7 +14,6 @@ This application helps users manage daily expenses efficiently with features lik
 - 📊 View expense distribution using a pie chart
 - 💰 Real-time total expense calculation
 - 🧾 Data stored in CSV file for persistence
-
 ---
 
 ## 🛠️ Technologies Used
